@@ -5,9 +5,15 @@ This is my portfolio to display the work I have done and completed while in my c
 # 👋 Hi, I’m Tessa Dashner
 
 Welcome to my GitHub portfolio!
-I’m a **Computer Science student** with experience in **software development, web development, and problem-solving using modern programming languages**. This repository serves as a central hub showcasing my projects, skills, and growth as a developer.
+I’m a **Computer Science student** at **Brigham Young University-Idaho** with experience in **software development, web development, and problem-solving using modern programming languages**. This repository serves as a central hub showcasing my projects, skills, and growth as a developer.
 
 ---
+
+## About Me
+
+- I'm currently learning ...
+- My goals are to ...
+- Ask me about ...
 
 ## 🛠️ Technical Skills
 
@@ -46,7 +52,6 @@ I’m especially interested in roles where I can continue learning, collaborate 
 
 ## 📫 Contact
 
-* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* (Optional later) LinkedIn: [https://linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+* LinkedIn: [[https://linkedin.com/in/](https://www.linkedin.com/in/tessa-dashner/)]
 
 Thanks for taking the time to check out my work!
