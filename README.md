@@ -11,9 +11,9 @@ I’m a **Computer Science student** at **Brigham Young University-Idaho** with 
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+CS student passionate about developing secure, scalable web applications and data-driven solutions. Built React/Firebase applications with authentication and developed projects in Python, C#, and SQL. Strong background in OOP, algorithms, and database design.
+
+Seeking front-end, back-end, or data engineering opportunities. When I’m not coding, you’ll find me hiking, camping, or creating art — staying active and creative keeps me sharp and balanced.
 
 ## 🛠️ Technical Skills
 
