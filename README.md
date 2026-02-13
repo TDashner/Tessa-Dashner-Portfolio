@@ -52,6 +52,6 @@ I’m especially interested in roles where I can continue learning, collaborate 
 
 ## 📫 Contact
 
-* LinkedIn: [[https://linkedin.com/in/](https://www.linkedin.com/in/tessa-dashner/)]
+* LinkedIn: [[https://linkedin.com/in/tessa-dashner](https://www.linkedin.com/in/tessa-dashner/)]
 
 Thanks for taking the time to check out my work!
